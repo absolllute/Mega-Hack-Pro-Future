@@ -4,6 +4,6 @@ A repository for tracking issues / suggestions related to Mega Hack Pro!
 
 Please leave your issues / suggestions in the [issues tab](https://github.com/absoIute/Mega-Hack-Pro-Future/issues)!
 
-Remember, Mega Hack Pro and other fantastic tools are located at Absolute['](https://www.youtube.com/Brittank88)s [website](absolllute.com)!
+Mega Hack Pro is available from my [store](https://absolllute.com/store/) for $3.99 USD.
 
 <img src="https://absolllute.com/store/img/mh.png" width="100"/>

@@ -1,5 +1,9 @@
-# Mega-Hack-Pro-Future
-Mega Hack Pro Suggestion &amp; Issue Tracker
+Mega-Hack-Pro-Future
+====================
+A repository for tracking issues / suggestions related to Mega Hack Pro!
 
-## How To
-Leave your bugs/issues/suggestions in the Issues tab.
+Please leave your issues / suggestions in the [issues tab](https://github.com/absoIute/Mega-Hack-Pro-Future/issues)!
+
+Remember, Mega Hack Pro and other fantastic tools are located at Absolute's [website](absolllute.com)!
+
+<img src="https://absolllute.com/store/img/mh.png" width="100"/>

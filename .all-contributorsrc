@@ -4,7 +4,30 @@
   ],
   "imageSize": 100,
   "commit": false,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "absoIute",
+      "name": "Absolute",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20018119?v=4",
+      "profile": "https://absolllute.com/",
+      "contributions": [
+        "bug",
+        "business",
+        "code",
+        "content",
+        "doc",
+        "design",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "question",
+        "security"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "projectName": "Mega-Hack-Pro-Future",
   "projectOwner": "absoIute",

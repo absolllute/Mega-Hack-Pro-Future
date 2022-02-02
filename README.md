@@ -1,13 +1,12 @@
-Mega-Hack-Pro-Future
-====================
-A repository for tracking issues / suggestions related to Mega Hack Pro!
+<h1>
+  <img alt="Mega Hack v5 Icon" width="60" align="right" src="https://absolllute.com/store/img/v5icon.png" />
+  <img alt="Mega Hack v6 Icon" width="60" align="right" src="https://absolllute.com/store/img/mh.png" />
+  <img alt="Mega Hack v7 Icon" width="60" align="right" src="https://absolllute.com/store/img/v7icon.png" />
+  Mega-Hack-Pro-Future
+</h1>
 
-Please leave your issues / suggestions in the [issues tab](https://github.com/absoIute/Mega-Hack-Pro-Future/issues)!
+A repository for tracking issues/suggestions related to Mega Hack Pro, originally maintained by Absolute and Brittank88!
 
-Mega Hack Pro is available from my [store](https://absolllute.com/store/) for $3.99 USD.
+Please leave your issues/suggestions in the [issues tab](https://github.com/absoIute/Mega-Hack-Pro-Future/issues)!
 
-<p float="left">
-<img src="https://absolllute.com/store/img/v7icon.png" width="100" hspace="20"/>
-<img src="https://absolllute.com/store/img/mh.png" width="100" hspace="20"/>
-<img src="https://absolllute.com/store/img/v5icon.png" width="100" hspace="20"/>
-</p>
+Mega Hack Pro is available from my [store](https://absolllute.com/store/) for $3.99 USD!

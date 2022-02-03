@@ -1,5 +1,7 @@
 {
-  "files": ["CONTRIBUTORS.md"],
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -7,5 +9,29 @@
   "projectOwner": "absoIute",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "absoIute",
+      "name": "Absolute",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20018119?v=4",
+      "profile": "https://absolllute.com/",
+      "contributions": [
+        "bug",
+        "business",
+        "code",
+        "content",
+        "doc",
+        "design",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "question",
+        "security"
+      ]
+    }
+  ]
 }

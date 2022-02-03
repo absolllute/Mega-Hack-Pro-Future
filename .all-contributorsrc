@@ -50,6 +50,18 @@
         "question",
         "review"
       ]
+    },
+    {
+      "login": "zohnannor",
+      "name": "zohnannor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35764628?v=4",
+      "profile": "https://github.com/zohnannor",
+      "contributions": [
+        "bug",
+        "ideas",
+        "maintenance",
+        "question"
+      ]
     }
   ]
 }

@@ -32,6 +32,22 @@
         "question",
         "security"
       ]
+    },
+    {
+      "login": "Brittank88",
+      "name": "Brittank88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24266948?v=4",
+      "profile": "https://github.com/Brittank88",
+      "contributions": [
+        "bug",
+        "content",
+        "doc",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "question"
+      ]
     }
   ]
 }

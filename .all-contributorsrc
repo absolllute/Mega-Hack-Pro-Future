@@ -74,6 +74,18 @@
         "maintenance",
         "question"
       ]
+    },
+    {
+      "login": "MainConMan",
+      "name": "MainConMan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95152593?v=4",
+      "profile": "https://github.com/MainConMan",
+      "contributions": [
+        "bug",
+        "ideas",
+        "maintenance",
+        "question"
+      ]
     }
   ]
 }

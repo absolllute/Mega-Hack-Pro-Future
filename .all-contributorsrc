@@ -1,5 +1,7 @@
 {
-  "files": ["CONTRIBUTORS.md"],
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -7,5 +9,23 @@
   "projectOwner": "absoIute",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "Brittank88",
+      "name": "Brittank88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24266948?v=4",
+      "profile": "https://github.com/Brittank88",
+      "contributions": [
+        "bug",
+        "content",
+        "doc",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "question"
+      ]
+    }
+  ]
 }

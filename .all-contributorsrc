@@ -86,6 +86,17 @@
         "maintenance",
         "question"
       ]
+    },
+    {
+      "login": "ImmensityHQ",
+      "name": "ImmensityHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94080846?v=4",
+      "profile": "https://github.com/ImmensityHQ",
+      "contributions": [
+        "bug",
+        "ideas",
+        "maintenance"
+      ]
     }
   ]
 }

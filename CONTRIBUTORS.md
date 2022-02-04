@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -16,6 +16,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/zohnannor"><img src="https://avatars.githubusercontent.com/u/35764628?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zohnannor</b></sub></a><br /><a href="https://github.com/absoIute/Mega-Hack-Pro-Future/issues?q=author%3Azohnannor" title="Bug reports">🐛</a> <a href="#ideas-zohnannor" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-zohnannor" title="Maintenance">🚧</a> <a href="#question-zohnannor" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/Nicko2102"><img src="https://avatars.githubusercontent.com/u/83476899?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicko2102</b></sub></a><br /><a href="https://github.com/absoIute/Mega-Hack-Pro-Future/issues?q=author%3ANicko2102" title="Bug reports">🐛</a> <a href="#ideas-Nicko2102" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-Nicko2102" title="Maintenance">🚧</a> <a href="#question-Nicko2102" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/MainConMan"><img src="https://avatars.githubusercontent.com/u/95152593?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MainConMan</b></sub></a><br /><a href="https://github.com/absoIute/Mega-Hack-Pro-Future/issues?q=author%3AMainConMan" title="Bug reports">🐛</a> <a href="#ideas-MainConMan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-MainConMan" title="Maintenance">🚧</a> <a href="#question-MainConMan" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/ImmensityHQ"><img src="https://avatars.githubusercontent.com/u/94080846?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ImmensityHQ</b></sub></a><br /><a href="https://github.com/absoIute/Mega-Hack-Pro-Future/issues?q=author%3AImmensityHQ" title="Bug reports">🐛</a> <a href="#ideas-ImmensityHQ" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ImmensityHQ" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 

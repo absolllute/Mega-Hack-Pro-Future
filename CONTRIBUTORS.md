@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -18,6 +18,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/MainConMan"><img src="https://avatars.githubusercontent.com/u/95152593?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MainConMan</b></sub></a><br /><a href="https://github.com/absoIute/Mega-Hack-Pro-Future/issues?q=author%3AMainConMan" title="Bug reports">🐛</a> <a href="#ideas-MainConMan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-MainConMan" title="Maintenance">🚧</a> <a href="#question-MainConMan" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/ImmensityHQ"><img src="https://avatars.githubusercontent.com/u/94080846?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ImmensityHQ</b></sub></a><br /><a href="https://github.com/absoIute/Mega-Hack-Pro-Future/issues?q=author%3AImmensityHQ" title="Bug reports">🐛</a> <a href="#ideas-ImmensityHQ" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ImmensityHQ" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/RoootTheFoxold"><img src="https://avatars.githubusercontent.com/u/47434248?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rooot</b></sub></a><br /><a href="#platform-RoootTheFoxold" title="Packaging/porting to new platform">📦</a> <a href="#question-RoootTheFoxold" title="Answering Questions">💬</a> <a href="#tutorial-RoootTheFoxold" title="Tutorials">✅</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/RoootTheFox"><img src="https://avatars.githubusercontent.com/u/78933889?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rooot</b></sub></a><br /><a href="#platform-RoootTheFox" title="Packaging/porting to new platform">📦</a> <a href="#question-RoootTheFox" title="Answering Questions">💬</a> <a href="#tutorial-RoootTheFox" title="Tutorials">✅</a></td>
   </tr>
 </table>
 

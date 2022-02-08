@@ -98,6 +98,17 @@
         "ideas",
         "maintenance"
       ]
+    },
+    {
+      "login": "RoootTheFoxold",
+      "name": "Rooot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47434248?v=4",
+      "profile": "https://github.com/RoootTheFoxold",
+      "contributions": [
+        "platform",
+        "question",
+        "tutorial"
+      ]
     }
   ]
 }

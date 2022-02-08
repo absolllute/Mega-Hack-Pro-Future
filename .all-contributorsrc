@@ -109,6 +109,17 @@
         "question",
         "tutorial"
       ]
+    },
+    {
+      "login": "RoootTheFox",
+      "name": "Rooot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78933889?v=4",
+      "profile": "https://github.com/RoootTheFox",
+      "contributions": [
+        "platform",
+        "question",
+        "tutorial"
+      ]
     }
   ]
 }

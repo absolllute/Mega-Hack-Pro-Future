@@ -132,6 +132,16 @@
         "bug",
         "ideas"
       ]
+    },
+    {
+      "login": "NewAlexGamer",
+      "name": "Alex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86263500?v=4",
+      "profile": "https://github.com/NewAlexGamer",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
     }
   ]
 }

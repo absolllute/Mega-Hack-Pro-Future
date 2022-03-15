@@ -5,7 +5,7 @@
   Mega-Hack-Pro-Future
 </h1>
 
-A repository for tracking issues/suggestions related to Mega Hack Pro, originally maintained by Absolute and Brittank88!
+A repository for tracking issues/suggestions related to Mega Hack Pro, originally maintained by [Absolute](https://github.com/absoIute) and [Brittank88](https://github.com/Brittank88)!
 
 Please leave your issues/suggestions in the [issues tab](https://github.com/absoIute/Mega-Hack-Pro-Future/issues)!
 

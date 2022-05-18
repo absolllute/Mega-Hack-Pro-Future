@@ -6,7 +6,7 @@
   "commit": false,
   "contributorsPerLine": 7,
   "projectName": "Mega-Hack-Pro-Future",
-  "projectOwner": "absoIute",
+  "projectOwner": "absolllute",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
@@ -130,7 +130,8 @@
       "profile": "https://github.com/NewAlexGamer",
       "contributions": [
         "bug",
-        "ideas"
+        "ideas",
+        "question"
       ]
     },
     {

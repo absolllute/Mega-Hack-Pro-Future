@@ -9,4 +9,4 @@ A repository for tracking issues/suggestions related to Mega Hack Pro, originall
 
 Please leave your issues/suggestions in the [issues tab](https://github.com/absoIute/Mega-Hack-Pro-Future/issues)!
 
-Mega Hack Pro is available from my [store](https://absolllute.com/store/) for $3.99 USD!
+Mega Hack Pro is available from my [store](https://absolllute.com/store/) for $4.99 USD!

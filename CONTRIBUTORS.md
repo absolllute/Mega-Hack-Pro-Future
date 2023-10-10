@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -26,6 +26,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kho-Dialga"><img src="https://avatars.githubusercontent.com/u/55767703?v=4?s=100" width="100px;" alt="Kho-Dialga"/><br /><sub><b>Kho-Dialga</b></sub></a><br /><a href="#tutorial-Kho-Dialga" title="Tutorials">✅</a> <a href="#video-Kho-Dialga" title="Videos">📹</a> <a href="#userTesting-Kho-Dialga" title="User Testing">📓</a> <a href="#platform-Kho-Dialga" title="Packaging/porting to new platform">📦</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sinc0s"><img src="https://avatars.githubusercontent.com/u/94676672?v=4?s=100" width="100px;" alt="sinc0s"/><br /><sub><b>sinc0s</b></sub></a><br /><a href="#question-sinc0s" title="Answering Questions">💬</a> <a href="https://github.com/absolllute/Mega-Hack-Pro-Future/issues?q=author%3Asinc0s" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/torzod"><img src="https://avatars.githubusercontent.com/u/29359401?v=4?s=100" width="100px;" alt="nora"/><br /><sub><b>nora</b></sub></a><br /><a href="#userTesting-torzod" title="User Testing">📓</a> <a href="#platform-torzod" title="Packaging/porting to new platform">📦</a> <a href="#question-torzod" title="Answering Questions">💬</a> <a href="#research-torzod" title="Research">🔬</a> <a href="#tutorial-torzod" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/strawbberrys"><img src="https://avatars.githubusercontent.com/u/56797207?v=4?s=100" width="100px;" alt="strawberrys"/><br /><sub><b>strawberrys</b></sub></a><br /><a href="#tutorial-strawbberrys" title="Tutorials">✅</a> <a href="#userTesting-strawbberrys" title="User Testing">📓</a> <a href="#platform-strawbberrys" title="Packaging/porting to new platform">📦</a></td>
     </tr>
   </tbody>
 </table>

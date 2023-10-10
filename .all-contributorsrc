@@ -179,6 +179,17 @@
         "userTesting",
         "platform"
       ]
+    },
+    {
+      "login": "OakleyCord",
+      "name": "Oakley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66735773?v=4",
+      "profile": "https://github.com/OakleyCord",
+      "contributions": [
+        "tutorial",
+        "userTesting",
+        "platform"
+      ]
     }
   ],
   "commitConvention": "angular",

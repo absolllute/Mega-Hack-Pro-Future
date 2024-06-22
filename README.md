@@ -2,6 +2,7 @@
   <img alt="Mega Hack v5 Icon" width="60" align="right" src="https://absolllute.com/store/img/v5icon.png" />
   <img alt="Mega Hack v6 Icon" width="60" align="right" src="https://absolllute.com/store/img/mh.png" />
   <img alt="Mega Hack v7 Icon" width="60" align="right" src="https://absolllute.com/store/img/v7icon.png" />
+  <img alt="Mega Hack v8 Icon" width="60" align="right" src="https://absolllute.com/store/img/v8icon.png" />
   Mega-Hack-Pro-Future
 </h1>
 
